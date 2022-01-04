@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there
+
+I am **Udit Patadia**.
+
+I completed my undergraduate degree in Electronics Engineering from Veermata Jijabai Technological Institute(VJTI), India. Since my graduation in 2016, I have gained work experience in different fields like app development, embedded systems, and software design.
+
+Currently, I am pursuing my Master's in Robotic Systems Development at Carnegie Mellon University.
+
+- 🌱 Fields of Interest : Motion Planning, Simultaneous localization and mapping (SLAM), Perception 
+- 📫 How to reach me: udit@cmu.edu or [LinkedIn](https://www.linkedin.com/in/udit-patadia/)
 
 <!--
 **udit7395/udit7395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

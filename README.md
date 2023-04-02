@@ -6,7 +6,7 @@ I completed my undergraduate degree in Electronics Engineering from Veermata Jij
 
 Currently, I am pursuing my Master's in Robotic Systems Development at Carnegie Mellon University.
 
-- 🌱 Fields of Interest : Motion Planning, Simultaneous localization and mapping (SLAM), Perception 
+- 🌱 Fields of Interest : Simultaneous localization and mapping (SLAM), Perception 
 - 📫 How to reach me: udit@cmu.edu or [LinkedIn](https://www.linkedin.com/in/udit-patadia/)
 
 <!--
